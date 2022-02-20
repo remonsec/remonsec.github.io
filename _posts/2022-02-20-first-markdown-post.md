@@ -1,3 +1,24 @@
+---
+
+title: Getting Started with Markdown Post
+
+author:
+
+  name: Md Saikat
+
+  link: https://github.com/0xh7ml
+
+date: 2019-08-09 20:55:00 +0800
+
+categories: [Blogging, Tutorial]
+
+tags: [first_markdown_post]
+
+pin: true
+
+---
+
+
 ## Export your Medium posts to Markdown
 
 There’s a simple solution to avoid copy/pasting and re-editing your Medium articles.
