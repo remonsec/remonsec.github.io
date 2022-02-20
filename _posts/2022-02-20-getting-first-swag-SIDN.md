@@ -1,5 +1,5 @@
 ---
-title: How I get my first SWAG from SIDN (Sensitive Data Expos
+title: How I get my first SWAG from SIDN (Sensitive Data Exposer)
 author:
   name: remonsec
   link: https://github.com/remonsec
