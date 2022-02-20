@@ -12,8 +12,8 @@ pin: true
 
 ## Passive Recon with Spyse (Part-I)
 
-بسم الله الرحمن الرحيم*
-*In the name of Allah, the Compassionate, the Merciful
+**بسم الله الرحمن الرحيم**
+
 
 Assalamu Alaikum
 peace be upon you
