@@ -83,4 +83,4 @@ Allah Hafiz
 
 ![](https://cdn-images-1.medium.com/max/2732/1*CffMGhkCVqwh1GOGfPVMdw.jpeg)
 
-## **UniqMe : [**https://uniqme.netlify.com**](https://uniqme.netlify.com)**
+## UniqMe : [**https://uniqme.netlify.com**](https://uniqme.netlify.com)
