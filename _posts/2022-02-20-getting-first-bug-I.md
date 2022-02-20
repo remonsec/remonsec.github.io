@@ -14,8 +14,8 @@ pin: true
 
 ![](https://cdn-images-1.medium.com/max/3000/1*Ix9XYGnb8Juz2NG_uA8Srg.jpeg)
 
-بسم الله الرحمن الرحيم*
-*In the name of Allah, the Compassionate, the Merciful
+
+In the name of Allah, the Compassionate, the Merciful
 
 Assalamu Alaikum
 peace be upon you
