@@ -19,7 +19,7 @@ peace be upon you
 
 ## Introduction
 
-In part-1 I showed mass attack technique like subdomain takeover. in part-2 I will show some more about mass attacks and also about specific target recon. Last week I get some bounties by doing my recon with [Spyse](undefined). Let me share my experience with you
+In part-1 I showed mass attack technique like subdomain takeover. in part-2 I will show some more about mass attacks and also about specific target recon. Last week I get some bounties by doing my recon with [Spyse](https://medium.com/u/943b150c124e?source=post_page-----3d6bce47365-----------------------------------). Let me share my experience with you
 
 ## Mass Attack
 
@@ -93,9 +93,9 @@ Now some will show offence that I am doing show off, if I don’t attach screens
 
 Whatever I am leaving it to you, you can show love or hate it’s your choice I am already broken so it make no changes to me :)
 
-Those are things I found interesting for BugBounty hunters on [Spyse](undefined). You also can look into your own for other features. This recon writeup series sponsored by Spyse. They offered me their pro account to use and let them know my feedback about their service.
+Those are things I found interesting for BugBounty hunters on [Spyse](https://medium.com/u/943b150c124e?source=post_page-----3d6bce47365-----------------------------------). You also can look into your own for other features. This recon writeup series sponsored by Spyse. They offered me their pro account to use and let them know my feedback about their service.
 
-You can see it your own how I used [Spyse](undefined) for BugBounty stuff and earned some cash. Thanks [Spyse](undefined) for the sponsorship and your amazing service
+You can see it your own how I used [Spyse](https://medium.com/u/943b150c124e?source=post_page-----3d6bce47365-----------------------------------) for BugBounty stuff and earned some cash. Thanks [Spyse](https://medium.com/u/943b150c124e?source=post_page-----3d6bce47365-----------------------------------) for the sponsorship and your amazing service
 
 I am ending this writeup here. If you have any question you can ask me on Twitter at this handle **remonsec**. If you have general questions then instead of DM you can mention me on your tweet. So other also may get benefit from your question or if I don’t know the answare I may mention someone who knows
 
