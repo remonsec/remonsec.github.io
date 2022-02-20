@@ -36,63 +36,45 @@ If you visit [https://spyse.com/tools](https://spyse.com/tools) you will see the
 
 **FEATURED TOOLS**
 
-* [**Advance Search**](https://spyse.com/advanced-search/domain)**
-*Customize your search to find any target.*
+* [**Advance Search**](https://spyse.com/advanced-search/domain)*Customize your search to find any target.*
 
-* [**API**](https://spyse.com/api)**
-*Get the data via Spyse API.*
+* [**API**](https://spyse.com/api)*Get the data via Spyse API.*
 
-* [**Bulk Search**](https://spyse.com/bulk-search)**
-*Make multiple searching for a list of targeted domains and IPs simultaneously.*
+* [**Bulk Search**](https://spyse.com/bulk-search)*Make multiple searching for a list of targeted domains and IPs simultaneously.*
 
 **DATA GATHERING**
 
-* [**Domain Lookup**](https://spyse.com/tools/domain-lookup)**
-*Explore detailed information about a domain*
+* [**Domain Lookup**](https://spyse.com/tools/domain-lookup)*Explore detailed information about a domain*
 
-* [**DNS Lookup**](https://spyse.com/tools/dns-lookup)**
-*Find all DNS records for any domain*
+* [**DNS Lookup**](https://spyse.com/tools/dns-lookup)*Find all DNS records for any domain*
 
-* [**ASN Lookup**](https://spyse.com/tools/asn-lookup)**
-*Find Autonomous System Numbers with connected data*
+* [**ASN Lookup**](https://spyse.com/tools/asn-lookup)*Find Autonomous System Numbers with connected data*
 
-* [**Subdomain Finder**](https://spyse.com/tools/subdomain-finder)**
-*Find subdomains of any domain*
+* [**Subdomain Finder**](https://spyse.com/tools/subdomain-finder)*Find subdomains of any domain*
 
 * [**Reverse DNS Lookup**](https://spyse.com/tools/reverse-dns-lookup)*Find a DNS PTR record of any IPv4 address*
 
-* [**SSL Certificate Lookup**](https://spyse.com/tools/ssl-lookup)**
-*Find certificates by a domain name or fingerprint*
+* [**SSL Certificate Lookup**](https://spyse.com/tools/ssl-lookup)*Find certificates by a domain name or fingerprint*
 
-* [**IP Lookup**](https://spyse.com/tools/ip-lookup)**
-*Find geolocation, open ports and hosted domains on the IP*
+* [**IP Lookup**](https://spyse.com/tools/ip-lookup)*Find geolocation, open ports and hosted domains on the IP*
 
-* [**MX Lookup**](https://spyse.com/tools/mx-lookup)**
-*Find MX records by the domain name*
+* [**MX Lookup**](https://spyse.com/tools/mx-lookup)*Find MX records by the domain name*
 
-* [**Reverse AdSense Lookup**](https://spyse.com/tools/reverse-adsense-lookup)**
-*Find all domains with the same AdSense ID*
+* [**Reverse AdSense Lookup**](https://spyse.com/tools/reverse-adsense-lookup)*Find all domains with the same AdSense ID*
 
-* [**Reverse IP Lookup**](https://spyse.com/tools/reverse-ip-lookup)**
-*Find all hosted domains on a specific IP address*
+* [**Reverse IP Lookup**](https://spyse.com/tools/reverse-ip-lookup)*Find all hosted domains on a specific IP address*
 
-* [**NS Lookup**](https://spyse.com/tools/ns-lookup)**
-*Get a full DNS records list of a domain*
+* [**NS Lookup**](https://spyse.com/tools/ns-lookup)*Get a full DNS records list of a domain*
 
-* [**Company Lookup**](https://spyse.com/tools/company-lookup)**
-*Find related company assets by its name*
+* [**Company Lookup**](https://spyse.com/tools/company-lookup)*Find related company assets by its name*
 
-* [**Port Scanner**](https://spyse.com/tools/port-scanner)**
-*Find open ports and vulnerabilities*
+* [**Port Scanner**](https://spyse.com/tools/port-scanner)*Find open ports and vulnerabilities*
 
-* [**WHOIS Lookup**](https://spyse.com/tools/whois-lookup)**
-*Find WHOIS record for any domain*
+* [**WHOIS Lookup**](https://spyse.com/tools/whois-lookup)*Find WHOIS record for any domain*
 
-* [**CVE Search**](https://spyse.com/tools/cve-search)**
-*Find vulnerable domains and IP addresses by CVE ID*
+* [**CVE Search**](https://spyse.com/tools/cve-search)*Find vulnerable domains and IP addresses by CVE ID*
 
-* [**Technology Checker**
-](https://spyse.com/tools/technology-checker)***Search for technologies on the websites.*
+* [**Technology Checker**](https://spyse.com/tools/technology-checker)*Search for technologies on the websites.*
 
 So as you can see here a lot to do with spyse.
 
