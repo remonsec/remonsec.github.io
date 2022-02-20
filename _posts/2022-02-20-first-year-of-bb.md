@@ -1,3 +1,13 @@
+---
+title: My 1st year of Bug Bounty experience
+author:
+  name: remonsec
+  link: https://github.com/remonsec
+# date: 2019-08-08 11:33:00 +0800
+categories: [Bugbounty]
+tags: [bugbounty]
+pin: true
+---
 
 ## My 1st year of Bug Bounty experience
 
