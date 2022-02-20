@@ -26,7 +26,7 @@ Without more intro, let’s get into the story
 If I be honest, I was learning Python for a while. But I didn’t know how to use it in the real world. As an example, I know this is a loop but how can I use it in real world, that's my main question to myself. So end of the day, I know the syntax but I don’t know how to deal with it.
 
 
-Everything was running like before, one day somehow I visited a profile on Facebook. There I saw that guy using a specific name for himself everywhere, and that name is really a unique one. I would like to mention that profile so you can understand it clearly. That guy’s profile name is [**Prial Islam Khan**](https://www.facebook.com/prial261), if you are from **Bangladesh **and connected with **Cyber Security** then you already know him.
+Everything was running like before, one day somehow I visited a profile on Facebook. There I saw that guy using a specific name for himself everywhere, and that name is really a unique one. I would like to mention that profile so you can understand it clearly. That guy’s profile name is [**Prial Islam Khan**](https://www.facebook.com/prial261), if you are from **Bangladesh** and connected with **Cyber Security** then you already know him.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*Rpo_k8m5tx3YnrDnxqdWxw.png)
 
