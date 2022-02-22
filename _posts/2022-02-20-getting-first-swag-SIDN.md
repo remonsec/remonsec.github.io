@@ -23,6 +23,8 @@ Student of Computer Science Engineering. I am learning about Web Penetration Tes
 
 Let's start the story
 
+![](https://media2.giphy.com/media/XyaQAnihoZBU3GmFPl/giphy.webp?cid=6c09b95280cd248c1aa56dc5912ab455a822e68c40ce1926&rid=giphy.webp&ct=g)
+
 ## Background
 
 I just weak up and start scrolling on my Facebook timeline. I saw someone posted in the Bug Bounty Poc group that he got a SWAG from SIDN for reporting a vulnerability. That T-Shirt was really awesome and I also have a friend [**Asif Farabi**](https://www.facebook.com/asiffarabi000) who has that same SWAG from SIDN. So my mind said 
@@ -35,37 +37,38 @@ I fire up my Kali Linux, start my recon with [**Sublist3r**](https://github.com/
 From Sublist3r I found an interesting domain called 
 mailman.sidn.nl
 
-![](https://cdn-images-1.medium.com/max/2000/1*rpF4-XnBw3HpS5C-KtJFHA.jpeg)
+[![1-rp-F4-Xn-Bw3-Hp-S5-C-Kt-JFHA.jpg](https://i.postimg.cc/43k6P7p5/1-rp-F4-Xn-Bw3-Hp-S5-C-Kt-JFHA.jpg)](https://postimg.cc/v4hxHmqg)
+
 
 After playing around the target I found a directory called 
 mailman.sidn.nl/pipermail
 But there was a 403 for that directory
 
-![](https://cdn-images-1.medium.com/max/2000/1*pZu8Ti8QcEObC09WBY5v4A.png)
+[![1-p-Zu8-Ti8-Qc-EOb-C09-WBY5v4-A.png](https://i.postimg.cc/y6Q05rFW/1-p-Zu8-Ti8-Qc-EOb-C09-WBY5v4-A.png)](https://postimg.cc/Thby50NX)
 
 But then I put a ‘/’ after the pipermail directory 
 Like This: mailman.sidn.nl/pipermail/
 
-![](https://cdn-images-1.medium.com/max/2000/1*a2l0W9j5tyTwqlvHZbm4jw.png)
+[![1-a2l0-W9j5ty-Twqlv-HZbm4jw.png](https://i.postimg.cc/5y6Qbbwy/1-a2l0-W9j5ty-Twqlv-HZbm4jw.png)](https://postimg.cc/7JrZNvtr)
 
 Boom … 
 It takes me inside the directory. Inside that directory, I found lots of private emails about the company. like their product relates emails, production emails, internal dev mails, etc.
 
-![](https://cdn-images-1.medium.com/max/2000/1*6GlFrxctXnuyvr6Vz9bPpg.jpeg)
+[![1-0-Iv-Kq-Zm-He-Eww27j-ZMMs59-Q.png](https://i.postimg.cc/GhTTf3LS/1-0-Iv-Kq-Zm-He-Eww27j-ZMMs59-Q.png)](https://postimg.cc/bs8vDh2Q)
 
 Then immediately I send them that Bug Report and asked Allah for the success
 
-![](https://cdn-images-1.medium.com/max/2000/1*0IvKqZmHeEww27jZMMs59Q.png)
+[![1-6-Gl-Frxct-Xnuyvr6-Vz9b-Ppg.jpg](https://i.postimg.cc/fWr05SN9/1-6-Gl-Frxct-Xnuyvr6-Vz9b-Ppg.jpg)](https://postimg.cc/Jtjnzntr)
 
 And then
 Alhamdulillah (all praise is due to Allah)
 Got this sweet SWAG
 
-![](https://cdn-images-1.medium.com/max/3072/1*a_0VWzmqcOO-jDYFOpWzWw.jpeg)
+[![1-a-0-VWzmqc-OO-j-DYFOp-Wz-Ww.jpg](https://i.postimg.cc/qvXqfz9Q/1-a-0-VWzmqc-OO-j-DYFOp-Wz-Ww.jpg)](https://postimg.cc/Js0MZ47B)
 
-![](https://cdn-images-1.medium.com/max/3072/1*L-IhWzE-SLYPRCh6XITMrQ.jpeg)
+[![1-L-Ih-Wz-E-SLYPRCh6-XITMr-Q.jpg](https://i.postimg.cc/qR9CLghr/1-L-Ih-Wz-E-SLYPRCh6-XITMr-Q.jpg)](https://postimg.cc/YGz92rzD)
 
-![](https://cdn-images-1.medium.com/max/4096/1*ySHOopXvlTVMMtIgpb5LBQ.jpeg)
+[![1-y-SHOop-Xvl-TVMMt-Igpb5-LBQ.jpg](https://i.postimg.cc/fRhfsqbs/1-y-SHOop-Xvl-TVMMt-Igpb5-LBQ.jpg)](https://postimg.cc/3dnvCBpf)
 
 ## Bug POC
 
