@@ -37,7 +37,7 @@ But this act can be extremely evil hacking on random assets makes no sense.
 
 Now it’s time to filter those things to find out websites with responsible disclosure policy
 
-[![1-ZTk-FR3m5-W8-7-Mqm-NICwai-Q.png](https://i.postimg.cc/Qd4b5GqM/1-ZTk-FR3m5-W8-7-Mqm-NICwai-Q.png)](https://postimg.cc/HrMXDNRG)
+[![1-bo-QZr5-Ot155-F-N3th4-WIOg.png](https://i.postimg.cc/Wpw0gcNP/1-bo-QZr5-Ot155-F-N3th4-WIOg.png)](https://postimg.cc/7bbCrcJB)
 
 Download your search result in CSV format, cut the end url and bruteforce the list with some common disclosure endpoint 
 You may need a pro account to download your search result.
