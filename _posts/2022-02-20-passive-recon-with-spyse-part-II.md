@@ -28,59 +28,59 @@ So last time we saw some mass subdomain takeover
 
 what about other issues ! let me share a query that [**Markroze**](https://twitter.com/_markroze) shared with me
 
-![](https://cdn-images-1.medium.com/max/2718/1*RUHHhy-C84XCbaVW9zcEnw.png)
+[![1-RUHHhy-C84-XCba-VW9zc-Enw.png](https://i.postimg.cc/ydSvsQc8/1-RUHHhy-C84-XCba-VW9zc-Enw.png)](https://postimg.cc/34YgZZts)
 
-![](https://cdn-images-1.medium.com/max/2716/1*ZTkFR3m5W8_7MqmNICwaiQ.png)
+[![1-ZTk-FR3m5-W8-7-Mqm-NICwai-Q.png](https://i.postimg.cc/Qd4b5GqM/1-ZTk-FR3m5-W8-7-Mqm-NICwai-Q.png)](https://postimg.cc/HrMXDNRG)
 
 we can search for specific things. like here we have WATTrouter service you can do more query like jira, openvpn, wordpress so and so on
 But this act can be extremely evil hacking on random assets makes no sense.
 
 Now it’s time to filter those things to find out websites with responsible disclosure policy
 
-![](https://cdn-images-1.medium.com/max/2000/1*boQZr5Ot155F-N3th4WIOg.png)
+[![1-ZTk-FR3m5-W8-7-Mqm-NICwai-Q.png](https://i.postimg.cc/Qd4b5GqM/1-ZTk-FR3m5-W8-7-Mqm-NICwai-Q.png)](https://postimg.cc/HrMXDNRG)
 
 Download your search result in CSV format, cut the end url and bruteforce the list with some common disclosure endpoint 
 You may need a pro account to download your search result.
 
-![](https://cdn-images-1.medium.com/max/2384/1*PVjOMV5DlXdxgb93t_YyDQ.png)
+[![1-PVj-OMV5-Dl-Xdxgb93t-Yy-DQ.png](https://i.postimg.cc/8z9vN1HL/1-PVj-OMV5-Dl-Xdxgb93t-Yy-DQ.png)](https://postimg.cc/gxyjKb10)
 
 After that you can FUZZ like this to get out all hosts with disclosure program
 **NOTE**: FFUF -mr flag not working properly for me. If you face similar let me know, btw you can do similar with bash, python . . .
 
-![](https://cdn-images-1.medium.com/max/2000/1*H8BxeY_dhe3XWJgfbITrcQ.png)
+[![1-H8-Bxe-Y-dhe3-XWJgfb-ITrc-Q.png](https://i.postimg.cc/tC1CyFmm/1-H8-Bxe-Y-dhe3-XWJgfb-ITrc-Q.png)](https://postimg.cc/JGLW5H8b)
 
 Okay enough. we are done with mass attack things. do your own research to find out more interesting query and attacks.
 
 ## Recon your Target
 
-![](https://cdn-images-1.medium.com/max/2000/1*m1NH5uG5ic86rhaewgzHuA.png)
+[![1-m1-NH5u-G5ic86rhaewgz-Hu-A.png](https://i.postimg.cc/fb7YKGcX/1-m1-NH5u-G5ic86rhaewgz-Hu-A.png)](https://postimg.cc/7C6CPQQY)
 
 After searching your target you will see things in crawler section. there’s a panel called related. that one really helps. you will see similar data there like if any other host is using similar icon of your target website
 
-![](https://cdn-images-1.medium.com/max/2196/1*LJqEgauOEgAUqglKXT1GbA.jpeg)
+[![1-LJq-Egau-OEg-AUqgl-KXT1-Gb-A.jpg](https://i.postimg.cc/vmm6r4mR/1-LJq-Egau-OEg-AUqgl-KXT1-Gb-A.jpg)](https://postimg.cc/TKZwGYmQ)
 
 You will be getting AWS buckets that target company use to host assets. Now you can look for access control issues for those buckets. you will also get interesting 3rd party hosting services that your target may using for their asset hosting or any other work. so those 3rd party hosts also can lead security issue for your target
 
-![](https://cdn-images-1.medium.com/max/2000/1*0wehjS7wAqpZQhQ3dzTr4g.png)
+[![1-0wehj-S7w-Aqp-ZQh-Q3dz-Tr4g.png](https://i.postimg.cc/vZ04ZGt0/1-0wehj-S7w-Aqp-ZQh-Q3dz-Tr4g.png)](https://postimg.cc/VJbf7QTt)
 
 If you move into DNS history & related category again you will see some options there to look into. This feature of Spyse helped me to earn some $cash last week
 
-![](https://cdn-images-1.medium.com/max/2000/1*ggboRCNC1pPWXBlG03jlaA.jpeg)
+[![1-ggbo-RCNC1p-PWXBl-G03jla-A.jpg](https://i.postimg.cc/TPmvH91n/1-ggbo-RCNC1p-PWXBl-G03jla-A.jpg)](https://postimg.cc/4KJ0Ypz3)
 
 webapp hosted on server from Canada was secure but same webapp hosted from US server was vulnerable with multiple server side attacks. 
 That program was live from 2014. In 2021 they resolved 10 reports 6 of them is mine.
 
-![](https://cdn-images-1.medium.com/max/2000/0*rZePHnRuXQP3Ro2A)
+[![0-r-Ze-PHn-Ru-XQP3-Ro2-A.jpg](https://i.postimg.cc/rFdnJpKr/0-r-Ze-PHn-Ru-XQP3-Ro2-A.jpg)](https://postimg.cc/2VD7jrdk)
 
-![](https://cdn-images-1.medium.com/max/2000/0*kzSpkUpZzxo4R6f8)
+[![0-kz-Spk-Up-Zzxo4-R6f8.jpg](https://i.postimg.cc/HxZz0Gmz/0-kz-Spk-Up-Zzxo4-R6f8.jpg)](https://postimg.cc/5Yz81R6Q)
 
-![](https://cdn-images-1.medium.com/max/2000/0*8tjTO4R6KBi073H8)
+[![0-8tj-TO4-R6-KBi073-H8.jpg](https://i.postimg.cc/xTS5KPDW/0-8tj-TO4-R6-KBi073-H8.jpg)](https://postimg.cc/9zJy2Zfp)
 
-![](https://cdn-images-1.medium.com/max/2000/0*Z1MzMU7Eb9Dfncfw)
+[![0-Z1-Mz-MU7-Eb9-Dfncfw.jpg](https://i.postimg.cc/1zTc4Gr7/0-Z1-Mz-MU7-Eb9-Dfncfw.jpg)](https://postimg.cc/xkvb4b7L)
 
-![](https://cdn-images-1.medium.com/max/2000/0*2LVAq6mNdtYZalY2)
+[![0-2-LVAq6m-Ndt-YZal-Y2.png](https://i.postimg.cc/hjTxjHjh/0-2-LVAq6m-Ndt-YZal-Y2.png)](https://postimg.cc/xJjqppLS)
 
-![](https://cdn-images-1.medium.com/max/2000/0*960RGfz4RFyFipFd)
+[![0-960-RGfz4-RFy-Fip-Fd.jpg](https://i.postimg.cc/LXKYrNTS/0-960-RGfz4-RFy-Fip-Fd.jpg)](https://postimg.cc/PLy5Db9V)
 
 No one was looking there so it was easy for me to find bugs.
 
@@ -101,4 +101,4 @@ I am ending this writeup here. If you have any question you can ask me on Twitte
 Have a sweet day everyone
 Allah Hafiz
 
-![](https://cdn-images-1.medium.com/max/2000/1*WVOxP0DnLiD8LpLty3NJXQ.jpeg)
+[![1-WVOx-P0-Dn-Li-D8-Lp-Lty3-NJXQ.jpg](https://i.postimg.cc/d15F80Df/1-WVOx-P0-Dn-Li-D8-Lp-Lty3-NJXQ.jpg)](https://postimg.cc/cgtPW0R7)
