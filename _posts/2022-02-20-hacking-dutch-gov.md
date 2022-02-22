@@ -20,7 +20,7 @@ Assalamu Alaikum (peace be upon you)*
 Long story short,
 I just get started with Bug Bounty in 2020 and saw this Bounty Boy ([**Mohammad Abdullah**](https://www.facebook.com/Abdul1ah)) with his Dutch Government swag.
 
-![](https://cdn-images-1.medium.com/max/2000/1*Hl1uJcQAb-QybBQCEp_mWA.jpeg)
+[![1-Hl1u-Jc-QAb-Qyb-BQCEp-m-WA.jpg](https://i.postimg.cc/PrmrVYVG/1-Hl1u-Jc-QAb-Qyb-BQCEp-m-WA.jpg)](https://postimg.cc/vcZscgdX)
 
 Just look at the Quote line. The word government was the killer one.
 So now what, I need this swag badly. But wait, i just get started few weeks ago even don’t know how to run burpsuite. As like all other newbie i DM that guy for the tip how he got that. Then he just gave me a github repo and told me to try harder. 
