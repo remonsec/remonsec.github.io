@@ -80,23 +80,23 @@ So as you can see here a lot to do with spyse.
 
 ## Advance Search
 
-![](https://cdn-images-1.medium.com/max/2704/1*WDn3W10nzPr2rdXk_66PeQ.png)
+[![1-WDn3-W10nz-Pr2rd-Xk-66-Pe-Q.png](https://i.postimg.cc/k4DmnmgP/1-WDn3-W10nz-Pr2rd-Xk-66-Pe-Q.png)](https://postimg.cc/2bpJwgW0)
 
 Here you can see spyse have around 4.8B data collection. So with advance search you can filter the data from their collection and can collect specific data you need.
 
 Let me give you a practical example by searching for all possible subdomain takeover on GitHub service
 
-![](https://cdn-images-1.medium.com/max/2732/1*2Y0dzDhSKeqXeWy17Jjumw.png)
+[![1-2-Y0dz-Dh-SKeq-Xe-Wy17-Jjumw.png](https://i.postimg.cc/GhvH0kfJ/1-2-Y0dz-Dh-SKeq-Xe-Wy17-Jjumw.png)](https://postimg.cc/svDV7Zsv)
 
-![](https://cdn-images-1.medium.com/max/2730/1*75ck-2b38Ulu6jiEbfAbpw.png)
+[![1-75ck-2b38-Ulu6ji-Ebf-Abpw.png](https://i.postimg.cc/NGH0T6Qq/1-75ck-2b38-Ulu6ji-Ebf-Abpw.png)](https://postimg.cc/mhTRWFc8)
 
-![](https://cdn-images-1.medium.com/max/2732/1*k_EjeseAFL2yPsg42sI4sA.png)
+[![1-k-Ejese-AFL2y-Psg42s-I4s-A.png](https://i.postimg.cc/HnDd3NTG/1-k-Ejese-AFL2y-Psg42s-I4s-A.png)](https://postimg.cc/Hc2qkBJ3)
 
-![](https://cdn-images-1.medium.com/max/2732/1*FcO9ox5FJVGC_wmt85Dd-w.png)
+[![1-Fc-O9ox5-FJVGC-wmt85-Dd-w.png](https://i.postimg.cc/XvGRhgHn/1-Fc-O9ox5-FJVGC-wmt85-Dd-w.png)](https://postimg.cc/cKWktfGz)
 
-![](https://cdn-images-1.medium.com/max/2574/1*0JE4tPYr0VK4nx_sQyJK2w.png)
+[![1-0-JE4t-PYr0-VK4nx-s-Qy-JK2w.png](https://i.postimg.cc/fy25DGyp/1-0-JE4t-PYr0-VK4nx-s-Qy-JK2w.png)](https://postimg.cc/N2XRxP1k)
 
-![](https://cdn-images-1.medium.com/max/2588/1*pdU3HEoALMtQjhlfbi9KwA.png)
+[![1-pd-U3-HEo-ALMt-Qjhlfbi9-Kw-A.png](https://i.postimg.cc/gjn8qnct/1-pd-U3-HEo-ALMt-Qjhlfbi9-Kw-A.png)](https://postimg.cc/9wHDcX7y)
 
 Hope this example is clear that how you can use spyse advance search feature to request specific data and use it for your own benefit.
 **NOTE**: hacking randomly like this can be dangerous
