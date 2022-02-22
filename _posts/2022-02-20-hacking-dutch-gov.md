@@ -75,7 +75,7 @@ You may notice i didn’t check for any parameter or any kind of Injection attac
 
 I had a vps so for me it was not that much hard to do. every nigh i run them with tmux and in morning i got juicy staff. After reporting couple of bugs one got triage as High impact and finally Alhamdulillah (All praise is due to Allah alone) i got that lousy T-Shirt
 
-![](https://cdn-images-1.medium.com/max/6240/1*_OCSji1b0Nd3A-56XcFmzA.jpeg)
+[![1-OCSji1b0-Nd3-A-56-Xc-Fmz-A.jpg](https://i.postimg.cc/VsjFVFKC/1-OCSji1b0-Nd3-A-56-Xc-Fmz-A.jpg)](https://postimg.cc/Wt1rD0LN)
 
 ## Author
 
