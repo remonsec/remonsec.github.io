@@ -24,7 +24,7 @@ In part-1 I showed mass attack technique like subdomain takeover. in part-2 I wi
 
 So last time we saw some mass subdomain takeover
 
-![](https://cdn-images-1.medium.com/max/2588/0*T9XwBhMsJCJAJSI_.png)
+[![](https://i.postimg.cc/x8Rmfm5q/0-T9-Xw-Bh-Ms-JCJAJSI.png)](https://postimg.cc/CnR5JzWV)
 
 what about other issues ! let me share a query that [**Markroze**](https://twitter.com/_markroze) shared with me
 
