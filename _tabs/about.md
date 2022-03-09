@@ -41,9 +41,6 @@ order: 4
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/remonsec/remonsec/main/assets/deku_cry.gif">
 
-</br>
-
-</br>
 
 ### Resources I Follow
 
@@ -82,7 +79,7 @@ order: 4
 - 🔰 [Twitter](https://twitter.com/remonsec)
 
 - 🔰 [Medium](https://medium.com/@remonsec)
-- 
+
 
 *************
 
