@@ -10,9 +10,9 @@ order: 4
 
 #### Assalamu Alaikum
 
-#### I am **Mehedi Hasan Remon** a 21 years old boy who study in **Computer Science** & do **BugBounty** as side activity
+#### I am **Mehedi Hasan Remon** a 22 years old boy. Who study in **Computer Science** & do **BugBounty** as side activity
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/remonsec/remonsec/main/assets/deku.gif">
 
 ### Learning
 
@@ -31,10 +31,7 @@ order: 4
 - 🔰 Watching Anime
 
 - 🔰 Explore The Internet
-
-</br>
-
-</br>
+- 
 
 ## Personal Intro
 
@@ -42,7 +39,7 @@ order: 4
 
 #### After seeing all the cool stuff of InfoSec, I start dreaming to become a Hacker. Passed through some useless courses and random youtube videos. Everyone was telling hold on boy, you even don't know how to shut down your windows 8 machine, Hacking is not for you go and do something less technical
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_cry.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/remonsec/remonsec/main/assets/deku_cry.gif">
 
 </br>
 
@@ -62,11 +59,6 @@ order: 4
 
 - 🔰 Active BugHunter YouTube Channels
 
-</br>
-
-</br>
-
-</br>
 
 ## End Note
 
@@ -74,11 +66,8 @@ order: 4
 
 #### So it only means I have to work Harder than other
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku_ready.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/remonsec/remonsec/main/assets/deku_ready.gif">
 
-</br>
-
-</br>
 
 ### My profiles & Contacts
 
@@ -93,10 +82,7 @@ order: 4
 - 🔰 [Twitter](https://twitter.com/remonsec)
 
 - 🔰 [Medium](https://medium.com/@remonsec)
-
-</br>
-
-</br>
+- 
 
 *************
 
