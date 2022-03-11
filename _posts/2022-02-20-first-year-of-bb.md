@@ -56,13 +56,13 @@ I knocked him immediately and asked the most common question that everyone try t
 
 He replied me with just a Blog Post called [**Getting Started 001**](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/?fbclid=IwAR1XNYIoJj2WTq3PFm_FV5I13aXCXmTnt5nYlFoSVF1h0QcmPuUnGo9iCAA) . From that day on it just **changed my Life**
 
- [**Video POC**](https://medium.com/media/e437fdb79854370234894877e59f08a0)
+ ![](https://media0.giphy.com/media/RhB0eCe5aUXrPMR0Kx/giphy.gif?cid=790b7611cca53b1e746d22dbafb36f72529ad2fb9e2a67c7&rid=giphy.gif&ct=g)
 
 From there i started learning about Linux basics, Networking basics, How my computer work, Programming basics, How they communicate etc etc. As i already knew some of them so it was fun for me to discover those old stuff in a detailed way.
 
 I study like i never before. Everyday i was passing 12+ hours with only learning those stuff. But here a thing i like to mention. I didn’t passed a good time with labs. what i have done i passed most of my times with real targets. I followed [**WebSecAcademy**](https://portswigger.net/web-security) to get the general idea first. It not take more then 5–6 hours. then i immediately choose target and start looking for those issues.
 
-[**Video POC**](https://medium.com/media/a2f6baeb82415fa58bf7cae4e1c5722d)
+![](https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif)
 
 But i realized that still it not working coz most of the time you will not get that little xss on their main application search bar. It just an example there a lot you can try, but hey i was not getting bugs at all.
 
@@ -70,7 +70,7 @@ As i mentioned before i was doing some BlackHat stuff. So during that time what 
 
 The problem with me was that time i didn’t know what recon is. I even didn’t checking for their subdomains. After passing some time with google i saw some methodologies. There they collect subdomains, do asset discovery and so and so on then start their actual manual testing. But i was not doing them and not getting any bugs
 
-[**Video POC**](https://medium.com/media/46cec678049454cdb8438e75d6d1d902)
+![](https://media.giphy.com/media/b5z9pHJxxcREI/giphy.gif)
 
 I started leaning more about recon how it work and what inside. I will attach the references later on. I know recon is not for getting vulnerabilities its for getting as much info as you can. As i saw i am not good with injection type attacks so now this is the only way for me to go ahead.
 
@@ -86,7 +86,7 @@ The only reason to show you those screenshot is, I am using them as reference of
 
 Let’s get back to the technical point again! I have the standard view from the community how everyone doing it. Then i have done some experiment see is it still work or not. Most of the time i was ended up having something unique and working. Most of the time my goal was reaching the unseen part of the target or getting stuff that may other missed. I am doing all the stuff Alone. For me its solo vs squad situation. So i also have to train myself like that
 
- [**Video POC**](https://medium.com/media/71ac006a0fbbaca43b496f4c393483b6)
+ ![](https://media.giphy.com/media/NNmJyVWriRDlS/giphy.gif)
 
 Believe me this game is **20%** of Technical Stuff and **80%** of Mindset 
 There is no simple word to explain you, how to do the research or how to get things done. Just keep those things on your mind that You should think creative and different and read a lot. Give back to the community. Try Harder and Never give up. You will be in a better position
