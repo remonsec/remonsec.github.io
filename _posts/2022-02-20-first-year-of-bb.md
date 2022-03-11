@@ -43,7 +43,7 @@ I was scrolling on FaceBook peacefully suddenly I saw a guy named [**Md Saikat**
 
 I picked that bug and reported it on some companies i already knew. One of them replied me with $70 bounty. For me as a college guy that time its enough earning. Cool dude. I want more.
 
- [**Video POC**](https://medium.com/media/981a3973737f5a4e0889418bcd940e5c)
+ ![](https://media3.giphy.com/media/1jXGsHY2EKdL27mEMd/giphy.gif)
 
 So i reported that bug in all BugCrowd public program and all companies i may know. But sadly this time i only got dup and N/A not a single bounty. I got -35 reps from HackerOne. I passed whole month with doing that and ended up by getting nothing. Now just about to give-up
 
