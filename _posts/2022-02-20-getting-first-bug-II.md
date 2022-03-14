@@ -46,15 +46,15 @@ All you have to do pick a massive amount of targets & gather as much subdomain a
 
 I tried with bash, by creating a shell script that takes a large amount of domain as input and enumerates subdomains, checks for takeover & stores the data for manual verification. You don’t have to go that far just make sure you have a good amount of target to check their subdomain takeover issues
 
-![](https://cdn-images-1.medium.com/max/2000/1*e3DVJMmZX5HiDbDb_JF3YA.png)
+[![1-e3-DVJMm-ZX5-Hi-Db-Db-JF3-YA.png](https://i.postimg.cc/2yzhNHfW/1-e3-DVJMm-ZX5-Hi-Db-Db-JF3-YA.png)](https://postimg.cc/WFHhMwzp)
 
 As you can see It scanned over 984 domains and end up having 20 detections and after manually verifying the amount was less than that. But hey It works. I found one takeover on Amazon but Subdomain Takeover on Amazon was out of scope, I didn’t notice that but it was their core subdomain so they resolved it but didn’t pay any bounty for my finding
 
-![](https://cdn-images-1.medium.com/max/2000/1*8Q-MWio4kk1na_KDte3P6Q.jpeg)
+[![1-8-Q-MWio4kk1na-KDte3-P6-Q.jpg](https://i.postimg.cc/dQyVJR0k/1-8-Q-MWio4kk1na-KDte3-P6-Q.jpg)](https://postimg.cc/4nXg59Vs)
 
 Got some over self-hosted Responsible Disclosure Programs. Takeovers on Heroku, AWS, GitHub was common there & received bounties as well
 
-![](https://cdn-images-1.medium.com/max/2424/1*Vk8adwL9dGFautaaa46nAQ.png)
+[![1-Vk8adw-L9d-GFautaaa46n-AQ.png](https://i.postimg.cc/1XGSwHgv/1-Vk8adw-L9d-GFautaaa46n-AQ.png)](https://postimg.cc/Mfpg81mB)
 
 If you target small companies like this your chance is high to get paid out there. You will get several BugBounty google dork on GitHub use them or make your own
 
@@ -66,17 +66,17 @@ Well, this is also going to be the same as like Subdomain Takeover workflow. Mak
 
 Build a similar bash script for Nuclei scan that take targets as input and check for issues and store the result
 
-![](https://cdn-images-1.medium.com/max/2000/1*_Bdf5pfkwbJ1Ec-V952NVA.png)
+[![1-Bdf5pfkwb-J1-Ec-V952-NVA.png](https://i.postimg.cc/52khHG7x/1-Bdf5pfkwb-J1-Ec-V952-NVA.png)](https://postimg.cc/DSLjHC3D)
 
 You are going to have issues like log file disclosure, config file disclosure, Jira wp issues, basic misconfiguration, etc. Most of the time you are just going to have low issues that the company even doesn't care about. But at some point, you will receive some small to big bounties depend on the bug you have
 
 Here I scanned once and got some low, medium issues. Also received bounties as well, the payout was so low tho
 
-![](https://cdn-images-1.medium.com/max/2416/1*eRSZKw5IeotBgpyRJoBaIQ.jpeg)
+[![1-e-RSZKw5-Ieot-Bgpy-RJo-Ba-IQ.jpg](https://i.postimg.cc/zX2tphn7/1-e-RSZKw5-Ieot-Bgpy-RJo-Ba-IQ.jpg)](https://postimg.cc/D8sPw8p4)
 
 I just can’t report those low-hanging fruits again & again so wrote some templates to automate the reporting part as well. I don’t want to waste my time in those areas
 
-![](https://cdn-images-1.medium.com/max/2730/1*SohJHJm5b5lzvV5FmwKXWA.png)
+[![1-Soh-JHJm5b5lzv-V5-Fmw-KXWA.png](https://i.postimg.cc/8PLB3nfZ/1-Soh-JHJm5b5lzv-V5-Fmw-KXWA.png)](https://postimg.cc/ykYZ3jPR)
 
 **Note**
 
@@ -121,7 +121,7 @@ You can use tools like waybackurls, gau to crawl over your target to collect end
 I just can’t write something like do this, do that, you will find IDOR. I just can show you the general approach there is no fixed way to hack into stuff. you have to figure things out depending on the situation and environment 
 Let me show you mine, how I get one yesterday
 
-![](https://cdn-images-1.medium.com/max/2594/1*ZZNm9u71kltB5YS09yP0qQ.jpeg)
+[![1-ZZNm9u71klt-B5-YS09y-P0q-Q.jpg](https://i.postimg.cc/YSC6vrnP/1-ZZNm9u71klt-B5-YS09y-P0q-Q.jpg)](https://postimg.cc/K1CkV2y7)
 
 Like here you have a JS file. You can use LinkFinder to collect endpoint from that file. Here it clearly shows that it takes input and gives back user info. So what! just have to put a random number that’s all.
 
@@ -131,7 +131,7 @@ They applied a temporary fix there and will let me know if that asset was in sco
 
 Well, I have exploited another IDOR. That was on their API. I use to get that API endpoint from their main web app. like checking logger++ logs and retesting every request. I am not sure how to show you that IDOR exploitation. As it sounds a little bit sensitive and they are still working on it to fix the issue. Then they will reward for it. I am just giving a SS that shows how things look like. But don’t angry with me if I hide too much
 
-![](https://cdn-images-1.medium.com/max/2720/1*tyROJ4IAHrBVf3bkgl_rjA.jpeg)
+[![1-ty-ROJ4-IAHr-BVf3bkgl-rj-A.jpg](https://i.postimg.cc/c1RvNqTt/1-ty-ROJ4-IAHr-BVf3bkgl-rj-A.jpg)](https://postimg.cc/t7gqhMK9)
 
 [https://targetapi/api/path/$username/notices](https://targetapi/api/path/$username/notices)
 
@@ -155,6 +155,8 @@ Mentioning the reproduce part POC video also available
 5 use that old token in /change-email endpoint
 6 you see it still working even there is a new CSRF token
 
+[![csrf_poc](https://img.youtube.com/vi/dDCKhoIFEtE/0.jpg)](https://www.youtube.com/watch?v=dDCKhoIFEtE)
+
 ## Information Disclosure
 
 Anything that exposes your GF phone number! kidding man, So the thing here is you have to think about what information your target is collecting or giving importance. Then based on that target you can look for several methods to collect maybe some data or at least view something that you should not
@@ -169,7 +171,9 @@ It can be separated in two different way
 
 Just aim for the users. look for the places where you can see your own information and then try to play around the request to check if you can view other data instead of your own. it can be some IDOR, SQLI, or whatever. I am not showing you here what you have to do just showing you how to think when you will be there.
 
-You are lucky that I have a [**POC video**](https://medium.com/media/3de1e52066fd1daabe0085e378d49a25) for you that shows how IDOR can leak clientside information
+You are lucky that I have a for you that shows how IDOR can leak clientside information
+
+[![idor](https://img.youtube.com/vi/R0dIk0fY5ro/0.jpg)](https://www.youtube.com/watch?v=R0dIk0fY5ro)
 
 
 **Server-Side Information**
@@ -181,7 +185,9 @@ You can also aim for firewall bypasses to view what the firewall trying to prote
 I have good findings in this area. Most of the time it was deep FUZZ and 403 bypasses. I have a writeup on 403 bypasses check this out this Guide for bypass 403 endpoints 
 [**KathanP19/HowToHunt**](https://github.com/KathanP19/HowToHunt/blob/master/Status_Code_Bypass/403Bypass.md) 
 
-![](https://cdn-images-1.medium.com/max/2000/1*2EbpPiL7fG8OHoD1lZ22-Q.png)
+[![1-2-Ebp-Pi-L7f-G8-OHo-D1l-Z22-Q.png](https://i.postimg.cc/26FrgYmz/1-2-Ebp-Pi-L7f-G8-OHo-D1l-Z22-Q.png)](https://postimg.cc/sQXkZtv8)
+
+[![info_bypass](https://img.youtube.com/vi/7kcK8JYinLI/0.jpg)](https://www.youtube.com/watch?v=7kcK8JYinLI)
 
 
 ## EndNote
@@ -191,7 +197,7 @@ Enough dude, I can’t write more. Seriously I can’t even focus on what to wri
 Remember if you die tomorrow world doesn’t care how much money you had.
 But the world cares what you have done with your time and energy for others. Make sure your words and character inspire others. As a BugHunter, you can leave a good impact on society. Oh one more thing, don’t forget your origin & who you were, support every one of them who supported you when you were useless. Pray for a better life & Fight for a better world
 
-![](https://cdn-images-1.medium.com/max/2000/1*Qgm9TyhtHrLMDxaRp2XQqg.jpeg)
+[![1-Qgm9-Tyht-Hr-LMDxa-Rp2-XQqg.jpg](https://i.postimg.cc/nzkf01Yr/1-Qgm9-Tyht-Hr-LMDxa-Rp2-XQqg.jpg)](https://postimg.cc/vgcKmfKw)
 
 Welcome my boy, can’t wait for more to see you Rising & Fighting
 Allah Hafiz
