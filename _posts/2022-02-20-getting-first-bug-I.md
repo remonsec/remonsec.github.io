@@ -12,7 +12,7 @@ pin: true
 
 ## Getting Your First Bug (Part I)
 
-![](https://cdn-images-1.medium.com/max/3000/1*Ix9XYGnb8Juz2NG_uA8Srg.jpeg)
+[![1-Ix9-XYGnb8-Juz2-NG-u-A8-Srg.jpg](https://i.postimg.cc/wjByVy66/1-Ix9-XYGnb8-Juz2-NG-u-A8-Srg.jpg)](https://postimg.cc/7fpZPLGc)
 
 
 In the name of Allah, the Compassionate, the Merciful
