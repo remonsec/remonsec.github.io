@@ -140,3 +140,8 @@ I like to manage my Bug Bounty records on [**Notion**](https://www.notion.so/)**
 I will not be sharing the whole record as it make no sense. But will give you some idea so you may know what to generally expect. I hacked **19 Company** and get paid in **cash** for **30** **Unique bugs**. Hacked **4 Company** that gives me **Swag**  include  **Dutch Gov**. Hacked **27** **Companies** that put my name on their **HOF**. Hacked **5 Company** that provided me **Certificate** as appreciation
 
 You can do more or may less that dosen’t matter. The matter is **Just Do It**
+
+___
+I am an independent researcher, a small support will be so nice to appreciate my work
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/remonsec)
