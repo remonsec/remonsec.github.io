@@ -156,7 +156,7 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: https://i.postimg.cc/KzVHQ4Wy/Lee-Yuhan-Payback-icon.jpg
+      path: 'https://i.postimg.cc/KzVHQ4Wy/Lee-Yuhan-Payback-icon.jpg'
     values:
       swcache: true
   - scope:
