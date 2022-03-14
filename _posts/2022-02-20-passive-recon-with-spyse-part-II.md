@@ -102,3 +102,8 @@ Have a sweet day everyone
 Allah Hafiz
 
 [![1-WVOx-P0-Dn-Li-D8-Lp-Lty3-NJXQ.jpg](https://i.postimg.cc/d15F80Df/1-WVOx-P0-Dn-Li-D8-Lp-Lty3-NJXQ.jpg)](https://postimg.cc/cgtPW0R7)
+
+___
+I am an independent researcher, a small support will be so nice to appreciate my work
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/remonsec)
