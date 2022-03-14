@@ -87,3 +87,8 @@ Allah Hafiz (May Allah be your Protector)
 Report: Jan / 21 / 2020
 Trigger: Jan / 21 / 2020
 Receive Swag: Jan / 29 / 2020
+
+___
+I am an independent researcher, a small support will be so nice to appreciate my work
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/remonsec)
