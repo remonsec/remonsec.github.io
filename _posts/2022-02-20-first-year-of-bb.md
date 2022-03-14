@@ -43,26 +43,26 @@ I was scrolling on FaceBook peacefully suddenly I saw a guy named [**Md Saikat**
 
 I picked that bug and reported it on some companies i already knew. One of them replied me with $70 bounty. For me as a college guy that time its enough earning. Cool dude. I want more.
 
- ![](https://media3.giphy.com/media/1jXGsHY2EKdL27mEMd/giphy.gif)
+[![giphy.gif](https://i.postimg.cc/2jd8q4s1/giphy.gif)](https://postimg.cc/hhjq67Pn)
 
 So i reported that bug in all BugCrowd public program and all companies i may know. But sadly this time i only got dup and N/A not a single bounty. I got -35 reps from HackerOne. I passed whole month with doing that and ended up by getting nothing. Now just about to give-up
 
 While scrolling my Facebook news feed I saw a guy named [**Prial Islam Khan**](https://www.facebook.com/0xPrial). That guy was smashing with bounties. His profile is just full with **swag** and **$** . That’s so cool
 
-![](https://cdn-images-1.medium.com/max/2000/0*DJFYf-KvlY0j8rtP.jpg)
+[![0-DJFYf-Kvl-Y0j8rt-P.jpg](https://i.postimg.cc/SRkTtFNb/0-DJFYf-Kvl-Y0j8rt-P.jpg)](https://postimg.cc/PpVQP7wS)
 
 I knocked him immediately and asked the most common question that everyone try to avoid.
 >  How I can Become a Bug Bounty Hunter
 
 He replied me with just a Blog Post called [**Getting Started 001**](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/?fbclid=IwAR1XNYIoJj2WTq3PFm_FV5I13aXCXmTnt5nYlFoSVF1h0QcmPuUnGo9iCAA) . From that day on it just **changed my Life**
 
- ![](https://media0.giphy.com/media/RhB0eCe5aUXrPMR0Kx/giphy.gif?cid=790b7611cca53b1e746d22dbafb36f72529ad2fb9e2a67c7&rid=giphy.gif&ct=g)
+[![giphy-gif-cid-790b76117e6ec62bc34fd56d0d2d917eee87ce7802d2821e-rid-giphy.gif](https://i.postimg.cc/Zn5PdT5n/giphy-gif-cid-790b76117e6ec62bc34fd56d0d2d917eee87ce7802d2821e-rid-giphy.gif)](https://postimg.cc/5YDFcWvW)
 
 From there i started learning about Linux basics, Networking basics, How my computer work, Programming basics, How they communicate etc etc. As i already knew some of them so it was fun for me to discover those old stuff in a detailed way.
 
 I study like i never before. Everyday i was passing 12+ hours with only learning those stuff. But here a thing i like to mention. I didn’t passed a good time with labs. what i have done i passed most of my times with real targets. I followed [**WebSecAcademy**](https://portswigger.net/web-security) to get the general idea first. It not take more then 5–6 hours. then i immediately choose target and start looking for those issues.
 
-![](https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif)
+[![200-gif-cid-790b761184bd0fab8cac80967850a6accc5a3b8070cf76b3-rid-200.gif](https://i.postimg.cc/dV3qSgLC/200-gif-cid-790b761184bd0fab8cac80967850a6accc5a3b8070cf76b3-rid-200.gif)](https://postimg.cc/dhMPhHRQ)
 
 But i realized that still it not working coz most of the time you will not get that little xss on their main application search bar. It just an example there a lot you can try, but hey i was not getting bugs at all.
 
@@ -70,23 +70,23 @@ As i mentioned before i was doing some BlackHat stuff. So during that time what 
 
 The problem with me was that time i didn’t know what recon is. I even didn’t checking for their subdomains. After passing some time with google i saw some methodologies. There they collect subdomains, do asset discovery and so and so on then start their actual manual testing. But i was not doing them and not getting any bugs
 
-![](https://media.giphy.com/media/b5z9pHJxxcREI/giphy.gif)
+[![giphy-gif-cid-790b7611f5dfd277208c8d6e5adba65336659af27a4abaee-rid-giphy.gif](https://i.postimg.cc/XqNMBy55/giphy-gif-cid-790b7611f5dfd277208c8d6e5adba65336659af27a4abaee-rid-giphy.gif)](https://postimg.cc/tZcvLJ2R)
 
 I started leaning more about recon how it work and what inside. I will attach the references later on. I know recon is not for getting vulnerabilities its for getting as much info as you can. As i saw i am not good with injection type attacks so now this is the only way for me to go ahead.
 
 I checked every single stuff available on internet i can. Then i saw most of the time everyone is doing the same. Everyone is using the same tool same approach to perform recon. So if i can do something different then i can win the game. I passed good amount of time to build up a workflow. Every time i was picking some topic to look deep into. Like Subdomain Enumeration, Fuzzing, etc etc. I started getting good bounties after trying in different ways. I don’t do same thing again and again. I pick topic to study then perform them on real target then going for next topic.
 
-![](https://cdn-images-1.medium.com/max/2000/1*Bni3a7yKjv9kDzIxliMV3g.png)
+[![1-Bni3a7y-Kjv9k-Dz-Ixli-MV3g.png](https://i.postimg.cc/zBj6NXQG/1-Bni3a7y-Kjv9k-Dz-Ixli-MV3g.png)](https://postimg.cc/k62fF990)
 
-![](https://cdn-images-1.medium.com/max/2000/1*t3Goi5P2uLZy5y-sVXn6bQ.png)
+[![1-t3-Goi5-P2u-LZy5y-s-VXn6b-Q.png](https://i.postimg.cc/XXMwD9gG/1-t3-Goi5-P2u-LZy5y-s-VXn6b-Q.png)](https://postimg.cc/N249K9SB)
 
-![](https://cdn-images-1.medium.com/max/2000/1*Vx_XAhsUX7fI_M-okZerSQ.png)
+[![1-Vx-XAhs-UX7f-I-M-ok-Zer-SQ.png](https://i.postimg.cc/L88zQ4tV/1-Vx-XAhs-UX7f-I-M-ok-Zer-SQ.png)](https://postimg.cc/JGSDGLdy)
 
 The only reason to show you those screenshot is, I am using them as reference of my words. Don’t believe random people on info-sec with their words, Believe them with their works. This is only to confirm you that you are not wasting your time on fake stuff at all.
 
 Let’s get back to the technical point again! I have the standard view from the community how everyone doing it. Then i have done some experiment see is it still work or not. Most of the time i was ended up having something unique and working. Most of the time my goal was reaching the unseen part of the target or getting stuff that may other missed. I am doing all the stuff Alone. For me its solo vs squad situation. So i also have to train myself like that
 
- ![](https://media.giphy.com/media/NNmJyVWriRDlS/giphy.gif)
+[![giphy.gif](https://i.postimg.cc/wTTygf1q/giphy.gif)](https://postimg.cc/WtCb77mC)
 
 Believe me this game is **20%** of Technical Stuff and **80%** of Mindset 
 There is no simple word to explain you, how to do the research or how to get things done. Just keep those things on your mind that You should think creative and different and read a lot. Give back to the community. Try Harder and Never give up. You will be in a better position
@@ -135,7 +135,7 @@ Here the resources I followed **most** on my 1st year of Bug Bounty Journey
 Well, now its not a important part of this write-up. Still let’s talk little bit. 
 I like to manage my Bug Bounty records on [**Notion**](https://www.notion.so/)** like this
 
-![](https://cdn-images-1.medium.com/max/2570/1*av-HDrb7j_O1NOJ00tt_JQ.png)
+[![1-av-HDrb7j-O1-NOJ00tt-JQ.png](https://i.postimg.cc/TPrYrgKN/1-av-HDrb7j-O1-NOJ00tt-JQ.png)](https://postimg.cc/JyzL8ycj)
 
 I will not be sharing the whole record as it make no sense. But will give you some idea so you may know what to generally expect. I hacked **19 Company** and get paid in **cash** for **30** **Unique bugs**. Hacked **4 Company** that gives me **Swag**  include  **Dutch Gov**. Hacked **27** **Companies** that put my name on their **HOF**. Hacked **5 Company** that provided me **Certificate** as appreciation
 
