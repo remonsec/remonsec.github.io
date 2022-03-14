@@ -72,7 +72,7 @@ Got this sweet SWAG
 
 ## Bug POC
 
- [**PoC Video**](https://medium.com/media/c128e4ead6ce9f547d1ac75360f5a5a5)
+[![poc](https://img.youtube.com/vi/J30KmyQetO0/0.jpg)](https://www.youtube.com/watch?v=J30KmyQetO0)
 
 ## Conclusion
 
