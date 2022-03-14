@@ -95,3 +95,8 @@ This is the part I, and I just discussed some of the mindset and non technical t
 
 Allah Hafiz
 Till that, Happy Hunting :)
+
+___
+I am an independent researcher, a small support will be so nice to appreciate my work
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/remonsec)
