@@ -106,3 +106,8 @@ Hope this example is clear that how you can use spyse advance search feature to 
 I am little bit sick & can’t write more. I am closing this write up here, whatever there a lot more to cover about spyse & recon. I will be publishing 2nd part of this write up as soon as I can.
 
 Allah Hafiz
+
+___
+I am an independent researcher, a small support will be so nice to appreciate my work
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/remonsec)
