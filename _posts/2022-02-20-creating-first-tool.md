@@ -93,3 +93,9 @@ Allah Hafiz
 [![1-Cff-MGhk-CVqwh1-GOGf-PVMdw.jpg](https://i.postimg.cc/MpzmVb3X/1-Cff-MGhk-CVqwh1-GOGf-PVMdw.jpg)](https://postimg.cc/2VXWfvDf)
 
 ## UniqMe : [**https://uniqme.netlify.com**](https://uniqme.netlify.com)
+
+
+I am an independent researcher, a small support will be so nice to appreciate my work
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/remonsec)
+
