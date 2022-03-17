@@ -142,6 +142,6 @@ I will not be sharing the whole record as it make no sense. But will give you so
 You can do more or may less that dosen’t matter. The matter is **Just Do It**
 
 ___
-I am an independent researcher, a small support will be so nice to appreciate my work
+wanna support my work! well just buy me a coffee
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/remonsec)
