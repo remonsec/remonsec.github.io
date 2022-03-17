@@ -89,6 +89,6 @@ Trigger: Jan / 21 / 2020
 Receive Swag: Jan / 29 / 2020
 
 ___
-I am an independent researcher, a small support will be so nice to appreciate my work
+wanna support my work! well just buy me a coffee
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/remonsec)
