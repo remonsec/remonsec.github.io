@@ -12,7 +12,6 @@ order: 4
 
 #### I am **Mehedi Hasan Remon** a 22 years old boy. Who study in **Computer Science** & do **BugBounty** as side activity
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/remonsec/remonsec/main/assets/deku.gif">
 
 ### Learning
 
@@ -39,7 +38,6 @@ order: 4
 
 #### After seeing all the cool stuff of InfoSec, I start dreaming to become a Hacker. Passed through some useless courses and random youtube videos. Everyone was telling hold on boy, you even don't know how to shut down your windows 8 machine, Hacking is not for you go and do something less technical
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/remonsec/remonsec/main/assets/deku_cry.gif">
 
 
 ### Resources I Follow
@@ -62,8 +60,6 @@ order: 4
 #### Well, it's true that I am not that much smart like other
 
 #### So it only means I have to work Harder than other
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/remonsec/remonsec/main/assets/deku_ready.gif">
 
 
 ### My profiles & Contacts
