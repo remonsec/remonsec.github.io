@@ -194,8 +194,7 @@ I have good findings in this area. Most of the time it was deep FUZZ and 403 byp
 
 Enough dude, I can’t write more. Seriously I can’t even focus on what to write next. I also don’t know how you still reading this. I only can see you are the next Hero of the InfoSec world, who is just going to use his power for the good.
 
-Remember if you die tomorrow world doesn’t care how much money you had.
-But the world cares what you have done with your time and energy for others. Make sure your words and character inspire others. As a BugHunter, you can leave a good impact on society. Oh one more thing, don’t forget your origin & who you were, support every one of them who supported you when you were useless. Pray for a better life & Fight for a better world
+Make sure your words and character inspire others. As a BugHunter, you can leave a good impact on society. Oh one more thing, don’t forget your origin & who you was before, support every one of them who supported you when you was lost. Pray for a better life & Fight for a better world
 
 [![1-Qgm9-Tyht-Hr-LMDxa-Rp2-XQqg.jpg](https://i.postimg.cc/nzkf01Yr/1-Qgm9-Tyht-Hr-LMDxa-Rp2-XQqg.jpg)](https://postimg.cc/vgcKmfKw)
 
