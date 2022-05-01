@@ -23,9 +23,9 @@ timezone: Asia/Dhaka
 
 title: remonsec                          # the main title
 
-tagline: Bug Bounty Hunter • 22 • Computer Science Student  # it will display as the sub-title
+tagline: ʙᴜɢʙᴏᴜɴᴛʏ ʜᴜɴᴛᴇʀ  # it will display as the sub-title
 
-description: Bug Bounty Hunter • 22 • Computer Science Student # >-# used by seo meta and the atom feed
+description: ʙᴜɢʙᴏᴜɴᴛʏ ʜᴜɴᴛᴇʀ # >-# used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://remonsec.github.io'
