@@ -8,38 +8,6 @@ order: 4
 
 ---
 
-### Learning
-
-- 🔰 CSE
-
-- 🔰 Bug Bounty
-
-- 🔰 Shell Scripting
-
-- 🔰 Webapp Pentesting
-
-### Hobbies
-
-- 🔰 Gaming Addict
-
-- 🔰 Watching Anime
-
-- 🔰 Explore The Internet
-
-### Resources I Follow
-
-- 🔰 PentesterLand
-
-- 🔰 Medium Writeups
-
-- 🔰 BugCrowd University
-
-- 🔰 Twitter BugBounty Community
-
-- 🔰 HackerOne Disclosure Rportes
-
-- 🔰 Active BugHunter YouTube Channels
-
 ### My profiles & Contacts
 
 - 🔰 [Hackerone](https://hackerone.com/remonsec)
