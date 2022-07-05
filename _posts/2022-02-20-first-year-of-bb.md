@@ -39,7 +39,7 @@ Just letting you know some general info about me, so you can understand what’s
 
 ## Story
 
-I was scrolling on FaceBook peacefully suddenly I saw a guy named [**Md Saikat**](https://www.facebook.com/dark.htmlii) posted on FaceBook about his $25 of Payoneer Bounty. He also was doing BlackHat stuff like me. Then something hit my mind, Well what’s that. He is getting paid for doing what ! Then i asked him and he told me that he found a bug on Payoneer and they paid him $25 for that. Then i asked for how the bug look like. Then he sended a mail of that report on my email address.
+I was 2019 after waking up from sleep I was scrolling on FaceBook peacefully suddenly I saw a guy named [**Md Saikat**](https://www.facebook.com/dark.htmlii) posted on FaceBook about his $25 of Payoneer Bounty. He also was doing BlackHat stuff like me. Then something hit my mind, Well what’s that. He is getting paid for doing what ! Then i asked him and he told me that he found a bug on Payoneer and they paid him $25 for that. Then i asked for how the bug look like. Then he sended a mail of that report on my email address.
 
 I picked that bug and reported it on some companies i already knew. One of them replied me with $70 bounty. For me as a college guy that time its enough earning. Cool dude. I want more.
 
