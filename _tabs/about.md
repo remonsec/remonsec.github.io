@@ -34,13 +34,3 @@ No excuses
 - Top Ranked Cybersecurity Researcher in Bangladesh
 
 ---
-
-### 👨‍💻 Stats
-
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=remonsec&&show_icons=true&theme=radical)
-
-</p>
-
----
