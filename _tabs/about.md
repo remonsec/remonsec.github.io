@@ -14,8 +14,10 @@ order: 4
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=remonsec&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats" data-proofer-ignore="" class="no-popup" />
-</p>
+<div align="center" data-proofer-ignore="">
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=remonsec&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+  </picture>
+</div>
 
 ---

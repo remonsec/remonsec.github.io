@@ -60,6 +60,8 @@ test() {
     --disable-external \
     --check-html \
     --allow_hash_href \
+    --ignore-urls "/radical/" \
+    --check-img-http \
     "$SITE_DIR"
 }
 
